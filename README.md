@@ -9,3 +9,6 @@ Github 사용법은 Github GUI를 이용하는 방법 1, 방법 2, Git bash를 �
 - Github GUI를 이용하는 방법 1 : [Github Desktop](https://blog.psangwoo.com/coding/2017/05/28/win-github-start-gui.html)
 - Github GUI를 이용하는 방법 2 : [Sourcetree](https://uxgjs.tistory.com/181)
 - Git bash를 이용하는 방법 : [git bash를 이용하는 법](https://opentutorials.org/module/3963/24442)
+
+### 링크 공유
+- [밑바닥부터 시작하는 데이터 과학 소스코드 링크](https://github.com/joelgrus/data-science-from-scratch)
